@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio projects\\DeviceHealthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\domain\\entities\\snmpdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\domain\\entities\\snmpdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\infrastructure\\snmp\\snmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\infrastructure\\snmp\\snmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\infrastructure\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\infrastructure\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\domain\\entities\\snmpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\domain\\entities\\snmpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\domain\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\domain\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\domain\\entities\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\domain\\entities\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\application\\snmpdatapollingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\application\\snmpdatapollingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|d:\\visual studio projects\\devicehealthservice\\devicehealthservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76F06956-83E3-4584-8F66-13C24D1F7F2B}|DeviceHealthService\\DeviceHealthService.csproj|solutionrelative:devicehealthservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:45:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:47:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SnmpConfig.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Domain\\Entities\\SnmpConfig.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Domain\\Entities\\SnmpConfig.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Domain\\Entities\\SnmpConfig.cs",
+              "RelativeToolTip": "DeviceHealthService\\Domain\\Entities\\SnmpConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T07:00:10.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnmpDevice.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Domain\\Entities\\SnmpDevice.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Domain\\Entities\\SnmpDevice.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Domain\\Entities\\SnmpDevice.cs",
+              "RelativeToolTip": "DeviceHealthService\\Domain\\Entities\\SnmpDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:52:48.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SNMPService.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Infrastructure\\Snmp\\SNMPService.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Infrastructure\\Snmp\\SNMPService.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Infrastructure\\Snmp\\SNMPService.cs",
+              "RelativeToolTip": "DeviceHealthService\\Infrastructure\\Snmp\\SNMPService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAKoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:24:37.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Domain\\Entities\\Device.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Domain\\Entities\\Device.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Domain\\Entities\\Device.cs",
+              "RelativeToolTip": "DeviceHealthService\\Domain\\Entities\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:24:30.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Domain\\Entities\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Domain\\Entities\\DatabaseSettings.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Domain\\Entities\\DatabaseSettings.cs",
+              "RelativeToolTip": "DeviceHealthService\\Domain\\Entities\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:24:28.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SNMPDataPollingService.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Application\\SNMPDataPollingService.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Application\\SNMPDataPollingService.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Application\\SNMPDataPollingService.cs",
+              "RelativeToolTip": "DeviceHealthService\\Application\\SNMPDataPollingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T06:24:24.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeToolTip": "DeviceHealthService\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:30:28.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\appsettings.json",
+              "RelativeDocumentMoniker": "DeviceHealthService\\appsettings.json",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\appsettings.json",
+              "RelativeToolTip": "DeviceHealthService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T12:39:52.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Program.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Program.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Program.cs",
+              "RelativeToolTip": "DeviceHealthService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:40:11.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Worker.cs",
+              "RelativeDocumentMoniker": "DeviceHealthService\\Worker.cs",
+              "ToolTip": "D:\\visual studio projects\\DeviceHealthService\\DeviceHealthService\\Worker.cs",
+              "RelativeToolTip": "DeviceHealthService\\Worker.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:40:21.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
