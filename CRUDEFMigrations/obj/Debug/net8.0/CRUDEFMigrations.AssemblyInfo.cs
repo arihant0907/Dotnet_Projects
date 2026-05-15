@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDEFMigrations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+180ca14653e28cbdc55889b5c61b5603630a3c2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e61f2332f2f10f5552691fb6d0b6fef3e1a8f8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDEFMigrations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDEFMigrations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

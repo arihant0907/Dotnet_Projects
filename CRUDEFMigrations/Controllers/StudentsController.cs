@@ -20,9 +20,24 @@ namespace CRUDEFMigrations.Controllers
         }
 
         // GET: Students
-        public async Task<IActionResult> Index()
+        //public async Task<IActionResult> Index()
+        //{
+        //    return View(await _context.Students.ToListAsync());
+        //}
+
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Students.ToListAsync());
+            var students = from s in _context.Students
+                           select s;
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                students = students.Where(s =>
+                    s.Name.ToLower().Contains(searchString.ToLower()) || s.Age.ToString().Contains(searchString) ||
+                    s.Course.Contains(searchString));
+            }
+
+            return View(await students.ToListAsync());
         }
 
         // GET: Students/Details/5
