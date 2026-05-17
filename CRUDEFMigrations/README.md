@@ -54,7 +54,7 @@ Create file:
 Student.cs
 using System.ComponentModel.DataAnnotations;
 
-```code
+```C#
 namespace CrudApp.Models
 {
     public class Student
@@ -81,7 +81,7 @@ Create folder:
 Create file:
 >> ApplicationDbContext.cs
 
-```code
+```C#
 using Microsoft.EntityFrameworkCore;
 using CrudApp.Models;
 
@@ -104,7 +104,7 @@ namespace CrudApp.Data
 Open:
 >> appsettings.json
 
-```code
+```Json
 {
   "ConnectionStrings": {
     "DefaultConnection": "Server=.;Database=CrudDb;Trusted_Connection=True;TrustServerCertificate=True"
@@ -119,7 +119,7 @@ Program.cs
 
 Add:
 
-```code
+```C#
 using CrudApp.Data;
 using Microsoft.EntityFrameworkCore;
 
