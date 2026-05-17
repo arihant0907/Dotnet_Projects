@@ -1,0 +1,25 @@
+﻿@model EmployeeCRUDByADO.Models.Employee
+
+<h2>Create Employee</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        Name:
+        @Html.TextBoxFor(x => x.Name)
+    </div>
+
+    <div>
+        City:
+        @Html.TextBoxFor(x => x.City)
+    </div>
+
+    <div>
+        Salary:
+        @Html.TextBoxFor(x => x.Salary)
+    </div>
+
+    <br />
+
+    <input type="submit" value="Save" class="btn btn-primary" />
+}

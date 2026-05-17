@@ -1,0 +1,27 @@
+﻿@model EmployeeCRUDByADO.Models.Employee
+
+<h2>Edit Employee</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Id)
+
+    <div>
+        Name:
+        @Html.TextBoxFor(x => x.Name)
+    </div>
+
+    <div>
+        City:
+        @Html.TextBoxFor(x => x.City)
+    </div>
+
+    <div>
+        Salary:
+        @Html.TextBoxFor(x => x.Salary)
+    </div>
+
+    <br />
+
+    <input type="submit" value="Update" class="btn btn-success" />
+}
